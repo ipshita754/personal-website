@@ -1,0 +1,24 @@
+body {
+    background-color: #d6eaf8;
+    color: #000;
+}
+
+h4 {
+    line-height: 2px;
+}
+
+.content {
+    text-align: center;
+}
+
+.cover-letter {
+    margin-left: 15px;
+}
+
+.mail, .phone {
+    display: flex;
+}
+.content{
+    background-image: url(img/background.jpg);
+    color: #ffff;
+}
