@@ -41,3 +41,10 @@ h4 {
 .link a:hover{
     color:green;
 }
+section{
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    margin: 20px auto;
+    width: 600px;
+}
